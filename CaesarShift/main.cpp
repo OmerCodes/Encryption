@@ -5,7 +5,7 @@ using namespace std;
 
 string Caesar();
 
-// Letter Array, slightly more inefficient than using the defualt character values but easier.
+// Letter Array, slightly more inefficient than using the default character values but easier.
 char Letters[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
 
 int main()
